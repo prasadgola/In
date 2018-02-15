@@ -6,10 +6,8 @@ I don't know what to write so, just read what in writing
 
 this line is for no reason
 
-```markdown
 
 you will refresh if touch here[___](https://prasadgola.github.io/In)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
