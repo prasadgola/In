@@ -15,37 +15,42 @@ you will refresh this page,if you touch here[___](https://prasadgola.github.io/I
 
 just touch
 
-##   shoping
+##   shopping
+sadf 
+sad
+
+asdf
+
+sadf
    
-.     amazon[https://www.amazon.in/ref=ap_frn_logo]
+.   adf  [amazon](https://www.amazon.in/ref=ap_frn_logo)
      
-.     flipkart[https://www.flipkart.com/]
+.   sadf
+.  asdf   asdf[alibaba](https://www.alibaba.com/?spm=a2700.8293689.scGlobalHomeHeader.6.L7xTkV)
 
-.     alibaba[https://www.alibaba.com/?spm=a2700.8293689.scGlobalHomeHeader.6.L7xTkV]
-
-.     snapdeal[https://www.snapdeal.com/]
+.    asdf [snapdeal](https://www.snapdeal.com/)
  
-.     myntra[https://www.myntra.com/]
+.  asdf   [myntra](https://www.myntra.com/)
  
-.     jabong[https://www.jabong.com/]
+.     [jabong](https://www.jabong.com/)
 
-.     ajio[https://www.ajio.com/]
+.     [ajio](https://www.ajio.com/)
 
 
 ##   social
 
-.     Facebook[https://www.facebook.com/]
+.     [Facebook](https://www.facebook.com/)
 
-.     Instagram[https://www.instagram.com/]
+.     [Instagram](https://www.instagram.com/)
 
-     Twitter[https://twitter.com/]
+.     [Twitter](https://twitter.com/)
 
-     whatsapp[https://web.whatsapp.com/]
+.     [whatsapp](https://web.whatsapp.com/)
 
-     youtube[https://www.youtube.com/]
+.     [youtube](https://www.youtube.com/)
 
 
 ###  else in your mind?
 
 
-       >else<[https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=MoiFWtGaOKfAXuSdndAP]
+       [>else<](https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=MoiFWtGaOKfAXuSdndAP)
