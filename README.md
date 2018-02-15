@@ -15,7 +15,7 @@ you will refresh this page,if you touch here[___](https://prasadgola.github.io/I
 
 just touch
 
-##   shoping:
+##   shoping
    
      amazon[https://www.amazon.in/ref=ap_frn_logo]
      
@@ -32,7 +32,7 @@ just touch
      ajio[https://www.ajio.com/]
 
 
-##   social:
+##   social
 
      Facebook[https://www.facebook.com/]
 
