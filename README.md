@@ -27,7 +27,7 @@ just touch
 .     [Facebook](https://www.facebook.com/),[Instagram](https://www.instagram.com/),[Twitter](https://twitter.com/),[whatsapp](https://web.whatsapp.com/),[youtube](https://www.youtube.com/)
 
 
-##  else in your mind?
+###  else in your mind?
 
 
-       [>else<](https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=MoiFWtGaOKfAXuSdndAP)
+       ##[>else<](https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=MoiFWtGaOKfAXuSdndAP)
