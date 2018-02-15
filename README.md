@@ -11,11 +11,11 @@ you will refresh this page,if you touch here[___](https://prasadgola.github.io/I
 
 
 
-### Way to>
+## Way to>
 
 just touch
 
-##   shopping
+###   shopping
 sadf 
 sad
 
@@ -37,7 +37,7 @@ sadf
 .     [ajio](https://www.ajio.com/)
 
 
-##   social
+###   social
 
 .     [Facebook](https://www.facebook.com/)
 
@@ -50,7 +50,7 @@ sadf
 .     [youtube](https://www.youtube.com/)
 
 
-###  else in your mind?
+##  else in your mind?
 
 
        [>else<](https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=MoiFWtGaOKfAXuSdndAP)
