@@ -1,20 +1,51 @@
-## Welcome your website 
+## Welcome to nowhere! 
 
-I don't know what to write so, just read what in writing
+Hey,you don't know what you are reading NOW,but don't give up!,just go on 
 
 ### boom
 
-this line is for no reason
+this line is for no reason,ok..!
 
 
-you will refresh if touch here[___](https://prasadgola.github.io/In)
+you will refresh this page,if you touch here[___](https://prasadgola.github.io/In)!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prasadgola/In/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Way to>
 
-### Support or Contact
+just touch
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##   shoping:
+   
+     amazon[https://www.amazon.in/ref=ap_frn_logo]
+     
+     flipkart[https://www.flipkart.com/]
+
+     alibaba[https://www.alibaba.com/?spm=a2700.8293689.scGlobalHomeHeader.6.L7xTkV]
+
+     snapdeal[https://www.snapdeal.com/]
+ 
+     myntra[https://www.myntra.com/]
+ 
+     jabong[https://www.jabong.com/]
+
+     ajio[https://www.ajio.com/]
+
+
+##   social:
+
+     Facebook[https://www.facebook.com/]
+
+     Instagram[https://www.instagram.com/]
+
+     Twitter[https://twitter.com/]
+
+     whatsapp[https://web.whatsapp.com/]
+
+     youtube[https://www.youtube.com/]
+
+
+###  else in your mind?
+
+
+       >else<[https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=MoiFWtGaOKfAXuSdndAP]
