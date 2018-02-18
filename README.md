@@ -1,6 +1,6 @@
-## Welcome to nowhere! 
+## welcome
 
-Hey,you don't know what you are reading NOW,but don't give up!,just go on 
+something to know about me! 
 
 ### boom
 
