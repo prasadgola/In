@@ -24,5 +24,5 @@ Me studing in [Dayananda sagar collage of engineering](http://dayanandasagar.edu
 you can connect me on [Facebook](https://www.facebook.com/profile.php?id=100011421298777)     [Instagram](https://www.instagram.com/prasad.gola//)     [Twitter](https://twitter.com/basavaprasad11)   [linkedin](https://www.linkedin.com/in/basava-prasad-gola-997864137/)
 
 
-you can see my face here*:*
+here are some images!
 ![Image of me](https://photos.google.com/photo/AF1QipMThxxXuDDQbfA9WoOW0eYDETcn6KhVMTgsB-Ek)
