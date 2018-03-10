@@ -2,9 +2,9 @@
 
 It's *basavaprasad.m.gola* from india
 
-## studing
+## studing:
 
-**In** [Dayananda sagar collage of engineering](http://dayanandasagar.edu/dsce/)
+**in** [Dayananda sagar collage of engineering](http://dayanandasagar.edu/dsce/)
 
 **branch** [Electronics and communication](http://dayanandasagar.edu/dsce/electronics-and-communication)
 
