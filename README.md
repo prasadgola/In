@@ -10,4 +10,4 @@ you can connect me on [Facebook](https://www.facebook.com/profile.php?id=1000114
 
 
 ![Image of](https://octodex.github.com/images/yaktocat.png)
-![Image of](http://www.alphr.com/pictures/1005746/in-pictures-moto-g5-plus#5)
+![Image of](http://cdn1.alphr.com/sites/alphr/files/2017/04/moto_g5_plus_7.jpg)
