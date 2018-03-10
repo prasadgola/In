@@ -1,21 +1,21 @@
 # Defined #
 
-##python
+##python##
 
 maths,string
 
-##electronics and communicaton
+##electronics and communicaton##
 
-###analog communication
-###integarted circuits
-##microcontroller
+###analog communication###
+###integarted circuits###
+##microcontroller##
 
-###8051
+###8051###
 
 assembly level language, matlab
 
-##signals and system
-## studing
+##signals and system##
+## studing##
 
 Me studing in [Dayananda sagar collage of engineering](http://dayanandasagar.edu/dsce/)
 
