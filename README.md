@@ -25,4 +25,4 @@ you can connect me on [Facebook](https://www.facebook.com/profile.php?id=1000114
 
 
 you can see my face here###:###
-![](https://photos.google.com/photo/AF1QipMThxxXuDDQbfA9WoOW0eYDETcn6KhVMTgsB-Ek)
+![Image of me](https://photos.google.com/photo/AF1QipMThxxXuDDQbfA9WoOW0eYDETcn6KhVMTgsB-Ek)
