@@ -1,4 +1,4 @@
-*Defined*
+#Defined
 
 **python**
 
@@ -7,7 +7,9 @@ maths,string
 **electronics and communicaton**
 
 ***analog communication***
+
 ***integarted circuits***
+
 **microcontroller**
 
 ***8051***
