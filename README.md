@@ -1,21 +1,21 @@
-# Defined #
+*Defined*
 
-##python##
+**python**
 
 maths,string
 
-##electronics and communicaton##
+**electronics and communicaton**
 
-###analog communication###
-###integarted circuits###
-##microcontroller##
+***analog communication***
+***integarted circuits***
+**microcontroller**
 
-###8051###
+***8051***
 
 assembly level language, matlab
 
-##signals and system##
-## studing##
+**signals and system**
+**studing**
 
 Me studing in [Dayananda sagar collage of engineering](http://dayanandasagar.edu/dsce/)
 
@@ -24,5 +24,5 @@ Me studing in [Dayananda sagar collage of engineering](http://dayanandasagar.edu
 you can connect me on [Facebook](https://www.facebook.com/profile.php?id=100011421298777)     [Instagram](https://www.instagram.com/prasad.gola//)     [Twitter](https://twitter.com/basavaprasad11)   [linkedin](https://www.linkedin.com/in/basava-prasad-gola-997864137/)
 
 
-![Image of](https://octodex.github.com/images/yaktocat.png)
-![Image of](http://cdn1.alphr.com/sites/alphr/files/2017/04/moto_g5_plus_7.jpg)
+you can see my face here###:###
+![]()
