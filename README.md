@@ -9,4 +9,4 @@ Me studing in [Dayananda sagar collage of engineering](http://dayanandasagar.edu
 you can connect me on [Facebook](https://www.facebook.com/profile.php?id=100011421298777)     [Instagram](https://www.instagram.com/prasad.gola//)     [Twitter](https://twitter.com/basavaprasad11)   [linkedin](https://www.linkedin.com/in/basava-prasad-gola-997864137/)
 
 
-![image of fresh-tuxinu2](https://prasadgola.github.io/img/fresh-tuxinu2.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
