@@ -18,15 +18,15 @@ you can connect me **on**
 
 ## Current learing topic
 
-#### electronics and communicaton
-#### analog communication
-#### integarted circuits
-#### microcontroller
-#### signals and system
+#### (electronics and communicaton)[https://en.wikipedia.org/wiki/Electronics]
+#### (Analog communication)[https://en.wikipedia.org/wiki/Analog_signal]
+#### (Integarted circuits)[https://en.wikipedia.org/wiki/Integrated_circuit]
+#### (Microcontroller)[https://en.wikipedia.org/wiki/Microcontroller]
+#### (Signals and system)[https://en.wikipedia.org/wiki/Signal#Signals_and_Systems]
 ### 8051:
      assembly level language, matlab
 
-### python
+### (Python)[https://en.wikipedia.org/wiki/Python_(programming_language)]
      maths,string
 
 
