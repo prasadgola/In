@@ -4,7 +4,7 @@
 
 maths,string
 
-### electronics and communicaton
+## electronics and communicaton
 
 ## analog communication
 
@@ -12,7 +12,7 @@ maths,string
 
 ## microcontroller
 
-### 8051
+###                  8051
 
 assembly level language, matlab
 
