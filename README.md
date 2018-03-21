@@ -11,14 +11,14 @@ It's *basavaprasad.m.gola* from india
 you can connect me **on**
 
 
-[Facebook](https://www.facebook.com/profile.php?id=100011421298777),\n
-[Instagram](https://www.instagram.com/prasad.gola//),\n
-[Twitter](https://twitter.com/basavaprasad11),\n
+[Facebook](https://www.facebook.com/profile.php?id=100011421298777),
+[Instagram](https://www.instagram.com/prasad.gola//),
+[Twitter](https://twitter.com/basavaprasad11),
 [linkedin](https://www.linkedin.com/in/basava-prasad-gola-997864137/)
 
 ## Current learing topic
 
-#### [electronics and communicaton](https://en.wikipedia.org/wiki/Electronics)
+#### [electronics     and    communicaton](https://en.wikipedia.org/wiki/Electronics)
 #### [Analog communication](https://en.wikipedia.org/wiki/Analog_signal)
 #### [Integarted circuits](https://en.wikipedia.org/wiki/Integrated_circuit)
 #### [Microcontroller](https://en.wikipedia.org/wiki/Microcontroller)
