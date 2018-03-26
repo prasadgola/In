@@ -33,7 +33,7 @@ you can connect me **on**
 here are some images!
 ![Image of me](http://pngimg.com/uploads/google/google_PNG19643.png)
 
-![zv](/home/prasadgola/Pictures/Screenshot from 2018-03-22 20-51-28.png)
+![zv](https://www.google.co.in/search?q=demolition+movie&tbm=isch&tbs=rimg:CU69VbXvztgLIjgkWMOaFh48_1DSeaApx75OidPUFWA47NjLRiP1i5dNzapmNYt4BQyh5vfRL1c22IOTkAi1k4eEsZCoSCSRYw5oWHjz8Eeu1BgFHV-z1KhIJNJ5oCnHvk6IR5SvPOSW_1DKoqEgl09QVYDjs2MhGMfXbseqimNyoSCdGI_1WLl03NqEd8wCmoKmcokKhIJmY1i3gFDKHkRZqXi4KYMr0gqEgm99EvVzbYg5BG_1kvBTZdnifioSCeQCLWTh4SxkEQvk6ONrpTKR&tbo=u&sa=X&ved=2ahUKEwjTwuTK3oraAhXFuo8KHa4NC4MQ9C96BAgAEBs&biw=1319&bih=678&dpr=1#imgrc=NJ5oCnHvk6K_2M:)
 
 
 
