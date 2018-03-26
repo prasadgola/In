@@ -18,7 +18,7 @@ you can connect me **on**
 
 ## Current learing topic
 
-#### [electronics     and    communicaton](https://en.wikipedia.org/wiki/Electronics)
+#### [electronic and ](https://en.wikipedia.org/wiki/Electronics)
 #### [Analog communication](https://en.wikipedia.org/wiki/Analog_signal)
 #### [Integarted circuits](https://en.wikipedia.org/wiki/Integrated_circuit)
 #### [Microcontroller](https://en.wikipedia.org/wiki/Microcontroller)
@@ -32,3 +32,14 @@ you can connect me **on**
 
 here are some images!
 ![Image of me](http://pngimg.com/uploads/google/google_PNG19643.png)
+
+
+
+
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
+</body>
+</html>
